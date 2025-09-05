@@ -1,6 +1,21 @@
 
-# Achyutarya Raaz
-Hello! I am a Computer Science student at Quantum University, Roorkee.
+# 👋 Hi, I'm Achyutarya Raaz  
+
+🎓 **B.Tech Computer Science Student** at Quantum University, Roorkee  
+💻 **Fresher | Web Developer | Cybersecurity Enthusiast | Open to Opportunities**  
+
+I am a passionate Computer Science student with a strong foundation in **Web Development, Programming, and Cybersecurity**. I enjoy solving problems, building projects, and learning new technologies.  
+
+🔍 I am currently seeking **Internships and Job Opportunities** (Remote | Onsite | Hybrid) where I can apply my skills, gain industry experience, and contribute to real-world projects.  
+
+✨ My core skills include:  
+- 🖥️ Programming: C, C++, Java, JavaScript, PHP, SQL  
+- 🌐 Web Development: HTML, CSS, Bootstrap, Node.js  
+- 🔐 Cybersecurity: Threat Analysis, Honeypots, Digital Forensics  
+- 🗄️ Databases: MySQL, MongoDB  
+
+🚀 I am eager to collaborate, contribute to open-source, and grow into a **Cybersecurity Expert** while enhancing my development skills.  
+
 
 ## 🛠️ Tech Stack
 
