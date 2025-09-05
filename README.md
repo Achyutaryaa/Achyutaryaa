@@ -76,5 +76,4 @@ I am a passionate Computer Science student with a strong foundation in **Web Dev
 
 ## 👀 Profile Visitors  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Achyutaryaa&label=Visitors&color=0e75b6&style=flat)  
-![Visitor Count](https://profile-counter.glitch.me/Achyutaryaa/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Achyutaryaa&label=Visitors&color=0e75b6&style=flat)
