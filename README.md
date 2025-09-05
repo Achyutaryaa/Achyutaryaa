@@ -73,3 +73,7 @@ I am a passionate Computer Science student with a strong foundation in **Web Dev
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/oneAaryaa)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/oneAaryaa)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/kingAaryaa)
+
+## 👀 Profile Visitors  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Achyutaryaa&label=Visitors&color=0e75b6&style=flat)
