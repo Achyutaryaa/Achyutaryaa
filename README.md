@@ -8,11 +8,14 @@ I am a passionate Computer Science student with a strong foundation in **Web Dev
 
 🔍 I am currently seeking **Internships and Job Opportunities** (Remote | Onsite | Hybrid) where I can apply my skills, gain industry experience, and contribute to real-world projects.  
 
-✨ My core skills include:  
+## 🛠️ Tech Stack & Skills
+
 - 🖥️ Programming: C, C++, Java, JavaScript, PHP, SQL  
 - 🌐 Web Development: HTML, CSS, Bootstrap, Node.js  
 - 🔐 Cybersecurity: Threat Analysis, Honeypots, Digital Forensics  
 - 🗄️ Databases: MySQL, MongoDB  
+- 📊 DSA: Data Structures & Algorithms (Problem Solving, Competitive Programming)
+  
 
 🚀 I am eager to collaborate, contribute to open-source, and grow into a **Cybersecurity Expert** while enhancing my development skills.  
 
