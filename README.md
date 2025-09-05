@@ -40,18 +40,18 @@ Hello! I am a Computer Science student at Quantum University, Roorkee.
  ## 📬 Contact
 
 ### 🔗 Tech Accounts:
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) [Achyutarya Raaz](https://github.com/Achyutaryaa)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [Achyutarya Raaz](https://linkedin.com/in/Achyutaryaa)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Achyutaryaa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Achyutaryaa)
 
 ### 🖥️ Coding Accounts:
-- ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) [Achyutarya Raaz](https://leetcode.com/u/Achyutaryaa/)
-- ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) [Achyutarya Raaz](https://www.hackerrank.com/profile/Achyutaryaa)
-- ![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=flat&logo=hackerearth&logoColor=white) [Achyutarya Raaz](https://www.hackerearth.com/@achyutaryaa/)
-- ![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white) [Achyutarya Raaz](https://codeforces.com/profile/Achyutaryaa)
-- ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-308D46?style=flat&logo=geeksforgeeks&logoColor=white) [Achyutarya Raaz](https://www.geeksforgeeks.org/user/achyutaryaa/)
-- ![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-FF5722?style=flat&logo=codingninjas&logoColor=white) [Achyutarya Raaz](https://www.naukri.com/code360/profile/Achyutaryaa)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Achyutaryaa/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Achyutaryaa)
+[![HackerEarth](https://img.shields.io/badge/-HackerEarth-323754?style=flat&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@achyutaryaa/)
+[![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Achyutaryaa)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksforGeeks-308D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/achyutaryaa/)
+[![Coding Ninjas](https://img.shields.io/badge/-Coding%20Ninjas-FF5722?style=flat&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/Achyutaryaa)
 
 ### 🌎 Social Accounts:
-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white) [Aarya Raaz](https://x.com/oneAaryaa)
-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) [Aarya Raaz](https://instagram.com/oneAaryaa)
-- ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white) [Aarya Raaz](https://facebook.com/kingAaryaa)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/oneAaryaa)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/oneAaryaa)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/kingAaryaa)
