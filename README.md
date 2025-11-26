@@ -1,7 +1,9 @@
 
 # 👋 Hi, I'm Achyutarya Raaz  
 
-🎓 **B.Tech Computer Science Student** at Quantum University, Roorkee  
+## 🎓 Education
+**B.Tech Computer Science Student** at Quantum University, Roorkee  
+##
 💻 **Fresher | Web Developer | Cybersecurity Enthusiast | Open to Opportunities**  
 
 I am a passionate Computer Science student with a strong foundation in **Web Development, Programming, and Cybersecurity**. I enjoy solving problems, building projects, and learning new technologies.  
